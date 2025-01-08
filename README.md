@@ -17,11 +17,11 @@ pkg install python
 ```
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/Rafaczx29/SIBF
 ```
 
 ```bash
-git clone https://github.com/Rafaczx29/SIBF
+pip install -r requirements.txt
 ```
 
 ```bash
