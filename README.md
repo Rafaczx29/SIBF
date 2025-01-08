@@ -1,5 +1,6 @@
 ## SCRIPT
-![SCRIPT](./img/topup.jpeg)
+![IMG_20250108_230139_waifu2x_CUnet_4 0x_noise-1_GPU](https://github.com/user-attachments/assets/926768d9-d1bb-4951-9e76-4baa3848501f)
+
 
 ## Installation
 
@@ -32,20 +33,11 @@ python menu.py
 ```
 
 
-## GET TOKEN / DEVICE ID
+## JIKA BELUM MEMILIKI TERMUX
 
-• [Termux](https://f-droid.org/repo/com.termux_1000.apk)  (Jika Blm punya)
+• **<a href='https://f-droid.org/id/packages/com.termux/'>Termux FDroid</a>**
 
-• [HTTP Canary Revolt](https://github.com/konchils404/topup/releases/download/release/HttpCanary.apk) (Http Canary)
+> Jika ada pertanyaan seputar fungsi maupun fitur pada script bisa hubungi saya dengan klik **<a href='http://bit.ly/rafaczx'>WhatsApp</a>**
 
-• [BUSSID Versi 3.6.1](https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1) ( wajib! hanya untuk mengambil token! ) 
-> jika pake bussid versi terbaru, token / device id tidak muncul.
-
-> Setelah topup selesai bisa langsung update bussid ke Versi Terbaru!
-
-
-## Contact Me
-
-• [whatsapp](https://wa.me/+6287878841498)
-
-• [telegram](https://t.me/konchils)
+# Untuk akses premium silahkan hubungi WhatsApp:
+**<a href='http://bit.ly/rafaczx'>WhatsApp</a>**
