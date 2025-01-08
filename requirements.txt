@@ -1,4 +1,3 @@
-install 
 requests 
 beautifulsoup4 
 pytz 
